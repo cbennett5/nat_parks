@@ -106,15 +106,15 @@
   visited: true
   date: June 2018
 
-- name: Glacier Bay
-  state: AK
-  poster: glacier-bay.jpg
-  visited: true
-  date: unknown
-
 - name: Glacier
   state: MT
   poster: glacier.jpg
+  visited: true
+  date: unknown
+
+- name: Glacier Bay
+  state: AK
+  poster: glacier-bay.jpg
   visited: true
   date: unknown
 
@@ -164,6 +164,11 @@
   poster: hot-springs.jpg
   visited: true
   date: unknown
+  
+- name: Indiana Springs
+  state: IN
+  poster: indiana-springs.jpg
+  visited: false
 
 - name: Isle Royale
   state: MI
