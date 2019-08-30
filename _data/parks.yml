@@ -165,9 +165,9 @@
   visited: true
   date: unknown
   
-- name: Indiana Springs
+- name: Indiana Dunes
   state: IN
-  poster: indiana-springs.jpg
+  poster: indiana-dunes.jpg
   visited: false
 
 - name: Isle Royale
