@@ -1,7 +1,7 @@
 - name: Acadia
-  state: AL
+  state: ME
   poster: acadia.jpg
-  visited: false
+  visited: true
 
 - name: American Samoa
   poster: american-samoa.jpg
@@ -14,6 +14,7 @@
 
 - name: Badlands
   state: SD
+  visited: true
   poster: badlands.jpg
 
 - name: Big Bend
@@ -28,34 +29,36 @@
 
 - name: Black Canyon of the Gunnison
   state: CO
+  visited: true
   poster: black-canyon-of-the-gunnison.jpg
 
 - name: Bryce Canyon
   state: UT
   poster: bryce-canyon.jpg
   visited: true
-  date: May 2018
+  date: unknown
 
 - name: Canyonlands
   state: UT
   poster: canyonlands.jpg
   visited: true
-  date: May 2018
+  date: unknown
 
 - name: Capitol Reef
   state: UT
   poster: capitol-reef.jpg
   visited: true
-  date: May 2018
+  date: unknown
 
 - name: Carlsbad Caverns
   state: NM
   poster: carlsbad-caverns.jpg
   visited: true
-  date: April 2018
+  date: unknown
 
 - name: Channel Islands
   state: CA
+  visited: true
   poster: channel-islands.jpg
 
 - name: Congaree
@@ -226,7 +229,7 @@
 - name: Petrified Forest
   state: AZ
   poster: petrified-forest.jpg
-  visited: false
+  visited: true
 
 - name: Pinnacles
   state: CA
@@ -255,7 +258,7 @@
 
 - name: Shenandoah
   state: VA
-  visited: true
+  visited: false
   poster: shenandoah.jpg
 
 - name: Theodore Roosevelt
