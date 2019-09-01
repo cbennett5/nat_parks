@@ -190,7 +190,7 @@
 - name: Kings Canyon
   state: CA
   poster: kings-canyon.jpg
-  visited: false
+  visited: true
 
 - name: Kobuk Valley
   state: AK
@@ -223,7 +223,7 @@
 
 - name: North Cascades
   state: WA
-  visited: true
+  visited: false
   poster: north-cascades.jpg
 
 - name: Olympic
@@ -263,7 +263,7 @@
 
 - name: Shenandoah
   state: VA
-  visited: false
+  visited: true
   poster: shenandoah.jpg
 
 - name: Theodore Roosevelt
